@@ -1,3 +1,21 @@
+#      $$\       $$$$$$$$\ $$$$$$$$\ $$$$$$\ 
+#      $$ |      $$  _____|\__$$  __|\_$$  _|
+#      $$ |      $$ |         $$ |     $$ |  
+#      $$ |      $$$$$\       $$ |     $$ |  
+#      $$ |      $$  __|      $$ |     $$ |  
+#      $$ |      $$ |         $$ |     $$ |  
+#      $$$$$$$$\ $$$$$$$$\    $$ |   $$$$$$\ 
+#      \________|\________|   \__|   \______|
+
+# ________________________________________________________________________________________________
+# LETI : Logiciel d'Extraction des Traces Internet
+# Permet de rechercher les historiques web des navigateurs Chrome, Edge et Firefox sous windows
+# Puis d'extraire les résultats au format CSV
+# ________________________________________________________________________________________________
+
+# PYTHON 3
+# Made by Sh0vel4n6
+
 #                 Importations
 from tkinter import *
 from tkinter import filedialog
